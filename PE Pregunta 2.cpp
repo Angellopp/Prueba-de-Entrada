@@ -34,7 +34,6 @@ int main() {
             if (pb > pa) {
                 if (state) {
                     ans2++;
-                    cout << "yala\n";
                 }
                 state = false;
             }
